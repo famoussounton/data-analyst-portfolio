@@ -64,7 +64,7 @@ GP % = DIVIDE([Gross Profit], [Sales_USD], 0)
 * `Plant Co Performance Report.pbix`: The primary Power BI report.
 * `Data/Plant_DTS.xlx`: The raw dataset used for analysis.
 * `Assets/Plant Co Performance Report.pdf`: The pdf version of the dashboard.
-* `Readme.md`: The Readme.
+* `Readme.md`: The Readme file.
 
 ---
 
