@@ -58,8 +58,10 @@ To achieve these insights, I developed custom logic such as:
 
 ## 📂 Project Structure
 * `Uk_Retail_Dashboard.pbix`: The primary Power BI report.
-* `UK_Retail.csv`: The raw dataset used for analysis.
-* `Screenshots/`: A folder containing high-resolution views of each dashboard page.
+* `Data/UK_Retail.csv`: The raw dataset used for analysis.
+* `Assets/Screen Recording Uk Retail Dashboard`: The screen recording of the dashboard.
+* `Assets/Uk_Retail_Dashboard.pdf`: The pdf version of the dashboard.
+* `Readme`: The Readme.
 
 ---
 
