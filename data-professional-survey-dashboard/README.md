@@ -63,7 +63,7 @@ RETURN (MinSal + MaxSal) / 2
 * `Data/Power BI - Data Pro Survey.xlx`: The raw dataset used for analysis.
 * `Assets/Screenshot1.png`: The screen recording of the dashboard.
 * `Assets/Data Professional Survey Breakdown.pdf`: The pdf version of the dashboard.
-* `Readme`: The Readme.
+* `Readme`: The Readme file.
 
 ---
 
