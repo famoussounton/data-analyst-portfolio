@@ -59,10 +59,10 @@ RETURN (MinSal + MaxSal) / 2
 ---
 
 ## 📂 Project Structure
-* `Uk_Retail_Dashboard.pbix`: The primary Power BI report.
-* `Data/UK_Retail.csv`: The raw dataset used for analysis.
-* `Assets/Screen Recording Uk Retail Dashboard`: The screen recording of the dashboard.
-* `Assets/Uk_Retail_Dashboard.pdf`: The pdf version of the dashboard.
+* `Data Professional Survey Breakdown.pbix`: The primary Power BI report.
+* `Data/Power BI - Data Pro Survey.xlx`: The raw dataset used for analysis.
+* `Assets/Screenshot1.png`: The screen recording of the dashboard.
+* `Assets/Data Professional Survey Breakdown.pdf`: The pdf version of the dashboard.
 * `Readme`: The Readme.
 
 ---
